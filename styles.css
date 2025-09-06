@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "blood-terror-font";
+  src: url("bloody.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "blood-terror-font";
+  color: red;
+  font-size: 48px;
+  text-transform: uppercase;
+}
+
+.center {
+  text-align: "center";
+}
